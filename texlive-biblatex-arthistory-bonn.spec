@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-arthistory-bonn
 Version:	46637
-Release:	1
+Release:	2
 Summary:	BibLaTeX citation style covers the citation and bibliography guidelines for art historians
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-arthistory-bonn
